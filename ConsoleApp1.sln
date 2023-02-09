@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{DE003072-2FF8-4EA0-B02C-32035AF73D52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sender", "ConsoleApp1\Sender.csproj", "{DE003072-2FF8-4EA0-B02C-32035AF73D52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumer", "Consumer\Consumer.csproj", "{F38B72E6-2887-4C54-8153-692B3B8C9EAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Consumer", "Consumer\Consumer.csproj", "{F38B72E6-2887-4C54-8153-692B3B8C9EAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
